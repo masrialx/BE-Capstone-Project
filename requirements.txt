@@ -12,7 +12,8 @@ astunparse==1.6.3
 async-lru==2.0.4
 async-timeout @ file:///croot/async-timeout_1703096998144/work
 attrs==23.2.0
-Babel==2.15.0
+Babel==2.15.
+
 backcall==0.2.0
 backports.zoneinfo==0.2.1
 bcrypt==4.1.3
